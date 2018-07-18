@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Dori
+Build-Jdk: 10.0.2
+Implementation-Title: springbootdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.redstapler
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springbootde
+ mo/
+Created-By: Maven Integration for Eclipse
+
